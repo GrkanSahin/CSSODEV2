@@ -1,0 +1,62 @@
+.main {
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 200px;
+}
+
+.logo {
+    height: 100px;
+    padding-left:670px; 
+    margin-bottom:20px;
+    width: 100%;
+    
+}
+
+.arama {
+    width: 99%;
+    height: 61%;
+    text-align: center;
+    margin: 0px;
+}
+
+.box1 {
+    float: left;
+    height: 66px;
+    width: 37%;
+    background-color: aqua;
+    text-align: center;
+    margin:0.2% 0.2% 0.2% 0;
+    padding-top:10px;
+    font-size: 16px;
+}
+
+.box2 {
+    float: left;
+    height: 71px;
+    width: 19%;
+    background-color: #70CCC2;
+    text-align: center;
+    margin: 0.2% 0.2% 0.2% 0;
+    padding-top: 5px;
+    font-size: 15px;
+
+}
+
+.box3 {
+    float: left;
+    height: 76px;
+    width: 43.2%;
+    background-color: #62B3AA;
+    text-align: center;
+    margin: 0.2% 0;
+    font-size: 13px;
+}
+
+.footer {
+    float: left;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    padding-top: 12px;
+    font-size: 13px;
+}
